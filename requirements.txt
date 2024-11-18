@@ -1,0 +1,6 @@
+langchain
+langchain_ollama
+langchain_community
+sentence_transformers
+psycopg2
+streamlit
